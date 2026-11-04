@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: nutricare-demo
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /health/ready
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: LLM_PROVIDER
+        value: groq
+      - key: LLM_MODEL
+        value: openai/gpt-oss-20b
+      - key: LLM_API_KEY
+        sync: false
+      - key: AI_API_URL
+        value: http://127.0.0.1:8002
+      - key: AI_API_TIMEOUT
+        value: "60"
+      - key: ALLOW_BASELINE_RETRAIN
+        value: "false"
+      - key: SQL_ECHO
+        value: "false"

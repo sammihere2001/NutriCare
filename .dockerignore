@@ -1,0 +1,20 @@
+# Allowlisted build context: never upload credentials, DB backups or environments.
+**
+!Dockerfile
+!deploy/
+!deploy/**
+!backendApiNutricare NEW/
+!backendApiNutricare NEW/backendApiNutricare NEW/
+!backendApiNutricare NEW/backendApiNutricare NEW/requirements.txt
+!backendApiNutricare NEW/backendApiNutricare NEW/app/
+!backendApiNutricare NEW/backendApiNutricare NEW/app/**
+!Diet_Plan_AI_Complete_v3/
+!Diet_Plan_AI_Complete_v3/*.py
+!Diet_Plan_AI_Complete_v3/models/
+!Diet_Plan_AI_Complete_v3/models/*.pkl
+!Diet_Plan_AI_Complete_v3/models/training_metadata.json
+!Diet_Plan_AI_Complete_v3/final_pakistani_diabetic_meal_plans.csv
+**/__pycache__/
+**/*.pyc
+**/.env*
+**/.git/

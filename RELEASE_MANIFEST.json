@@ -1,0 +1,230 @@
+[
+  {
+    "path": ".dockerignore",
+    "sha256": "abea51748fa557cb7c28a67584179f9f3d87f20b7904fe48e8839bc5e432c9a3"
+  },
+  {
+    "path": "ANALYSIS_PROVIDER_SETUP.md",
+    "sha256": "1d1b9315099d958858d1a860a85031421feb8831ec661d2aecabb3b7b1e741a8"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/auth_utils.py",
+    "sha256": "b738cfa131d59f3223375727092a61d8fa3d2a78c666806d05e6b31e24ae7d21"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/config.py",
+    "sha256": "5cdfbea27dc7831ea591b93291e72b4b62fd44b10f99749f0cc11f9d2902be81"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/crud_auth.py",
+    "sha256": "ee6ce6e11f80cb3d63fb8ee3bbfff547e94e979925ab68fa82e208c0c91d6052"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/crud_profile.py",
+    "sha256": "0cd0dbb03b0c10a37d01e3050657260e23b0e377f9ed7e90d682bef3f768e8c6"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/database.py",
+    "sha256": "6fa065bf6dd880d63458290aa37af6f1f8f383a15dd9d25266302169bca02942"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/db_options.py",
+    "sha256": "99a73aed7433ee1fa22884ce19ae4359317d7e671747ed3ea8b92d0646a176d4"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/email_service.py",
+    "sha256": "d191a7ca7c4282627246b8dd03cded2d53fb2cd46331a025d763edfcf4875dbc"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/main.py",
+    "sha256": "216f3d8ce9f07436f784216b9c5f02b15e2448f4fe67d14697fe4b834436ab8f"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/models.py",
+    "sha256": "adc7b25f128f7841bec5feb8b1b19a5e509f1e4e62dcdf4c0ddf1fc8db6d86fb"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/populate_meals_standalone.py",
+    "sha256": "96402a3a9c8b082a1f85ac1114337ca3f4e06a5b39e8bcf5947ac08b73e39da0"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/profile.py",
+    "sha256": "364ae77559a6409d0bf775f41836e24d4e03b55a4ace6ee8f49661be71cb31fa"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/auth.py",
+    "sha256": "fc5070865dec0d32e29da53ac0771058dd8299cd53d2b3f8f6e0b3fe87a4a2f4"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/daily_tracker.py",
+    "sha256": "9aa6e1555b62befbad857188e4911e2bc87ca8037ca40b5631c7e49a24309409"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/diet_plan.py",
+    "sha256": "e2009d1ce1493bbfeb1db51e15ee0aa6de3489a1e29927368ca9f095492beaf6"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/health.py",
+    "sha256": "91e0152d7aa025d42af97b7eb4d6fe1c5c0be489122f93d4c8efd15e568738b4"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/meal_database.py",
+    "sha256": "34f73ea9033cc2277ffae8df2a5da480c6321e5700c744521d3ceba46f3b299c"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/notifications.py",
+    "sha256": "2ccdef49183c9f18053430d3b5cb2a265db35f1e1f074981cb550891cd70f70f"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/pass_reset.py",
+    "sha256": "1c178a7e637d3d38103fde113652ae376ce4e71d018a9fb206dc778f2ba3a57a"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/profile.py",
+    "sha256": "5608c04648010a64b247c9e03f997981394f9289cb28cf0481b205566a178a08"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/treatment.py",
+    "sha256": "8613dbf45e7cb3a576e2f95d099c3ebec1c7d0741d405fe942052c300da0528e"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/user_settings.py",
+    "sha256": "561c1e4caa09d90d926df119afccbaa0c61cb4c83ec141c0e3545fb087db4cfa"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/routers/weekly_report.py",
+    "sha256": "92ad16fc6ddb99b114a3d5149babf0c543f683a8578df10f2084013bd6969fc3"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/schemas.py",
+    "sha256": "2bdcbdcb92f50bd1be42c36fdd35d109a469bf18b19be4b44524d3f50e7491f0"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/scripts/migrate_foundation.py",
+    "sha256": "979b023ab748fdc384f45bae7a62786b463f83e0afd29522cce524a35369261a"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/scripts/populate_meals.py",
+    "sha256": "2d71d1842cab85bff1763faa383f0e0a2d4bac6cc1c72bdaea735d8994d70254"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/scripts/seed_demo.py",
+    "sha256": "4e0b2ba6cb9c761811d3b306bc12cb29821720399f0694eed2ac5915e155c7fe"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/scripts/smoke_foundation.py",
+    "sha256": "5d0acfc0eb083df174301d955ab6fe854f502c83977d5e6a6e20c6cdf372dedb"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/scripts/smoke_narration.py",
+    "sha256": "4dd1da91e6f630a8db1ffc01bd264b4d8069fdb6b4abbe6dcbf8627e76f28d18"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/services/ai_service.py",
+    "sha256": "d035e97c7a499c4caa2a37cff2c332307d52176ad3f51e6daa24dc2c9ccdd13d"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/services/openai_service.py",
+    "sha256": "b7dd1685b3ff275736ff0cabe2efc13b7c4957077c6c8da3c15594fe2593edc1"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/services/profile_images.py",
+    "sha256": "0aec714ebb185c31743171fa830ec23ea2a0e14ff95f0fb67bdd2922b4d83067"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/services/treatment_service.py",
+    "sha256": "10c2876466d36fac5e4db9c1c714047f097a8b650e764ebfbedcf9211b17a3a9"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/settings.py",
+    "sha256": "a1bb35657588af878c0d4322f0ade4185eac15134bcf4f40dc98465d9223bbc3"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/treatment_schemas.py",
+    "sha256": "660d7c3e109970d17f833270533ef993f3650c437320f375cd9a9510201030cf"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/user_profile.py",
+    "sha256": "d27e0a949769e76dd62a27a683b0c80f165155e28db15d76f2bbe66bea894e9c"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/requirements.txt",
+    "sha256": "916a7f5052ac88d1f1ca21e3a0df61b92ff1bbc18adcac652ef7d78687f1d882"
+  },
+  {
+    "path": "deploy/requirements-ml.txt",
+    "sha256": "036209c8942774591339c8f5bba371a2a6daf1f934bc6b250329b7322a0ec987"
+  },
+  {
+    "path": "deploy/start.py",
+    "sha256": "61ec9de6499832e918aa5e8be70c01f5cc9dc535771ebb5ec47148745e3bfd46"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/api.py",
+    "sha256": "2c88c2efe0a01d16598de5b229d43c62c6bcdbfc02e3291079181a30a8e4b759"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/diet_data_utils.py",
+    "sha256": "211e9079adb1333237fdcabb84acb96804258acd2069e72ef03b8d5dfcae54c2"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/diet_recommender.py",
+    "sha256": "725caf299a4fdc44355d9be780e36f879adc48774782fe36c53a6fa4ad7c3e17"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/final_pakistani_diabetic_meal_plans.csv",
+    "sha256": "e4315e1905ac00a4feb36180661754df99207166be50f999ba20f30f250a2fcb"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/medication_context.py",
+    "sha256": "4547a3ce0cb4238d3184808c8a7ed20ce0046e938eee43043b97e72812d3eff1"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/medication_dataset.py",
+    "sha256": "b6fb0e4768e5054e4b21348d5b502dfa491856f61132db0ec6edc2be30ff06a3"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/medication_ranker.py",
+    "sha256": "e10a11e22fd7b9984d27248e3cb0650e2239fba8fd6c8dd9cd0a14cc9080f726"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/models/diet_model.pkl",
+    "sha256": "d6af73861e62be22f77b268532bfbe86c759fee8a9b252fe16fb0f06e05d9ace"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/models/feature_columns.pkl",
+    "sha256": "199b19142780459117bdbc4a602946eb17ed4a3891fe183728ecaa37f1494f4f"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/models/label_encoders.pkl",
+    "sha256": "764b67221c00734cea9f1e07139d779f6f96a6a2e1c558b46c38d980c965f37e"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/models/scaler.pkl",
+    "sha256": "14aaa4016fde1080d0f43ac3a8d5becdc6888dea19be646228cb02eae41b0625"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/models/training_metadata.json",
+    "sha256": "8e03894068008dfd4ce9dcc12173ffe71a5fcf90146f710334dec4299ddc172c"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/train_model.py",
+    "sha256": "9274d48093dc81ab5033b4d94bd53ad58fa85a0e5ce6ae4e26e500f990094bdb"
+  },
+  {
+    "path": "Dockerfile",
+    "sha256": "ae73b0a39ce3d723de8fc7d512a2ee8c59452ba0476859cef5f7ce567610c119"
+  },
+  {
+    "path": "HOSTED_DEMO_SETUP.md",
+    "sha256": "880e800beaf0a2928378e5f76e15979fe7525ec85a25226998b492da8195814d"
+  },
+  {
+    "path": "render.yaml",
+    "sha256": "cbe5d3de9a16a0d9fb8f523fbe1ed8760692bd921964253a1016cac4ddf891d4"
+  }
+]
