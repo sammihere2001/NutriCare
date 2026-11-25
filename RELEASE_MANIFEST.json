@@ -9,7 +9,7 @@
   },
   {
     "path": ".github/workflows/checks.yml",
-    "sha256": "54fe4ad56d20c9d8f2e6a63677d13f77c9585fcd272ede0e061a9f7c95e45bc8"
+    "sha256": "e914a6296621c9b3ff027857b01eb975fc9f9eeef54180326a3d460712e3f2ea"
   },
   {
     "path": ".gitignore",
@@ -212,12 +212,20 @@
     "sha256": "725caf299a4fdc44355d9be780e36f879adc48774782fe36c53a6fa4ad7c3e17"
   },
   {
+    "path": "Diet_Plan_AI_Complete_v3/evaluate_medication_engine.py",
+    "sha256": "810f81fd886765a2877ebd4ceeb45b3601bec6130d5d5d29df092faeda190b2c"
+  },
+  {
     "path": "Diet_Plan_AI_Complete_v3/final_pakistani_diabetic_meal_plans.csv",
     "sha256": "e4315e1905ac00a4feb36180661754df99207166be50f999ba20f30f250a2fcb"
   },
   {
     "path": "Diet_Plan_AI_Complete_v3/medication_context.py",
     "sha256": "4547a3ce0cb4238d3184808c8a7ed20ce0046e938eee43043b97e72812d3eff1"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/MEDICATION_DATASET.md",
+    "sha256": "71e791a05bba0defd31237964cc3644c3bf507c1e0dae51e2a4f780ba27d4b5b"
   },
   {
     "path": "Diet_Plan_AI_Complete_v3/medication_dataset.py",
@@ -246,6 +254,26 @@
   {
     "path": "Diet_Plan_AI_Complete_v3/models/training_metadata.json",
     "sha256": "8e03894068008dfd4ce9dcc12173ffe71a5fcf90146f710334dec4299ddc172c"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/prepare_medication_review.py",
+    "sha256": "3f220fb62b11b9fb1bdd85db567677f3a8cf0bdce98a291bb6a4bad7da63cfe9"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/review_data/audit.json",
+    "sha256": "9f021b251b186df7650d7b26f4bd5c047764c73ab709e1157717331dbd36af22"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/review_data/medication_review_draft.csv",
+    "sha256": "5cebc5aedd6b846d6f3cf2d9d3057402b715709f25b54c3de789fd9e5148435f"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/review_data/medication_review_template.csv",
+    "sha256": "1854aec2d2a368eef3e270469f130dfd281fdc197e364166b5644998780d7f01"
+  },
+  {
+    "path": "Diet_Plan_AI_Complete_v3/review_data/review_packet.html",
+    "sha256": "b4c7089b659b69f61cc5dde823b44684052c55e1896a7d6889272ef7a9624590"
   },
   {
     "path": "Diet_Plan_AI_Complete_v3/tests/test_medication_engine.py",
