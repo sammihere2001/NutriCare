@@ -4,3 +4,12 @@
 **/__pycache__/
 *.pyc
 *.log
+*.apk
+*.aab
+*.jks
+*.keystore
+**/key.properties
+**/local.properties
+**/.dart_tool/
+**/.gradle/
+**/build/

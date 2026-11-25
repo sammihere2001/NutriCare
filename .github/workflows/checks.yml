@@ -1,0 +1,39 @@
+name: Engineering checks
+on:
+  push:
+  pull_request:
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    env:
+      DATABASE_URL: postgresql+asyncpg://localhost/nutricare_tests
+      JWT_SECRET: ci-fixture-only-not-a-deployment-secret
+      LLM_PROVIDER: disabled
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+          cache: pip
+      - name: Install backend and ML test dependencies
+        run: pip install -r 'backendApiNutricare NEW/backendApiNutricare NEW/requirements.txt' -r deploy/requirements-ml.txt
+      - name: Backend unit tests (mocked DB/provider contracts)
+        working-directory: backendApiNutricare NEW/backendApiNutricare NEW
+        run: python -m unittest discover -s tests -v
+      - name: ML engineering tests
+        working-directory: Diet_Plan_AI_Complete_v3
+        run: python -m unittest discover -s tests -v
+  flutter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.38.5'
+          channel: stable
+          cache: true
+      - run: flutter pub get
+        working-directory: mobile
+      - name: Session, treatment and phone-width tests
+        working-directory: mobile
+        run: flutter test test/foundation_test.dart test/treatment_test.dart test/portfolio_screenshots_test.dart

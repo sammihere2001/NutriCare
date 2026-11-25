@@ -4,8 +4,24 @@
     "sha256": "abea51748fa557cb7c28a67584179f9f3d87f20b7904fe48e8839bc5e432c9a3"
   },
   {
+    "path": ".gitattributes",
+    "sha256": "78eb9722377acb66c1ed8a48f5bc22f41236be3843f72e2e7a930d1ca5af9bfe"
+  },
+  {
+    "path": ".github/workflows/checks.yml",
+    "sha256": "54fe4ad56d20c9d8f2e6a63677d13f77c9585fcd272ede0e061a9f7c95e45bc8"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "49c080657257287d86cf40e5d1a52b55a181c87ba9f8d3a5234a0a327179c5c0"
+  },
+  {
     "path": "ANALYSIS_PROVIDER_SETUP.md",
     "sha256": "1d1b9315099d958858d1a860a85031421feb8831ec661d2aecabb3b7b1e741a8"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/.env.example",
+    "sha256": "b794ae3d292bceaadb3a9f3302ba46d226a070a654a406c0c8c465441d479a11"
   },
   {
     "path": "backendApiNutricare NEW/backendApiNutricare NEW/app/__init__.py",
@@ -156,6 +172,26 @@
     "sha256": "916a7f5052ac88d1f1ca21e3a0df61b92ff1bbc18adcac652ef7d78687f1d882"
   },
   {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/tests/test_foundation.py",
+    "sha256": "f0c0de189bfd49979e7815952f7f940055cbf41247738cdb09f77932eb220d1c"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/tests/test_hosting.py",
+    "sha256": "c77c1601ea0e30e02107d92ae17279a34714bf4801da7034d303afc6fad3fe85"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/tests/test_ml_bridge.py",
+    "sha256": "271f56edeb82777981dd28a1519cfd39ceda555ca1727e90c4def18290162426"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/tests/test_narration.py",
+    "sha256": "50bc2d56c5acaa91197cdf7c7891b7f147ee6ea7ef1716d97ed830fd211b2511"
+  },
+  {
+    "path": "backendApiNutricare NEW/backendApiNutricare NEW/tests/test_treatment_and_uploads.py",
+    "sha256": "9b32e3dfad61c9d5d34c5517b87f93aa1546130acf94d5912b0fdfd5b42f5b06"
+  },
+  {
     "path": "deploy/requirements-ml.txt",
     "sha256": "036209c8942774591339c8f5bba371a2a6daf1f934bc6b250329b7322a0ec987"
   },
@@ -212,6 +248,10 @@
     "sha256": "8e03894068008dfd4ce9dcc12173ffe71a5fcf90146f710334dec4299ddc172c"
   },
   {
+    "path": "Diet_Plan_AI_Complete_v3/tests/test_medication_engine.py",
+    "sha256": "145a85ad9a734f9448837225798c20e2e2e7c040830d3c9240f6b70e01f75da8"
+  },
+  {
     "path": "Diet_Plan_AI_Complete_v3/train_model.py",
     "sha256": "9274d48093dc81ab5033b4d94bd53ad58fa85a0e5ce6ae4e26e500f990094bdb"
   },
@@ -220,8 +260,476 @@
     "sha256": "ae73b0a39ce3d723de8fc7d512a2ee8c59452ba0476859cef5f7ce567610c119"
   },
   {
+    "path": "docs/ANDROID_DEMO.md",
+    "sha256": "83a6208d0eded22bab00c802a02af2ba6ba853168fcd97ccb05f8a4b8611ad72"
+  },
+  {
+    "path": "docs/DATA_AND_MODEL_CARD.md",
+    "sha256": "91f69b8e3801a1d9f4818e8adb6885d1a02bf51d51c1324e37f0d5098811eadc"
+  },
+  {
+    "path": "docs/screenshots/dashboard.png",
+    "sha256": "1ca1e6694f9f82a88911864c316610a1a0ec2f84a6004727b6a910ce815f2f28"
+  },
+  {
+    "path": "docs/screenshots/login.png",
+    "sha256": "2ead4c5240b603f3be42ef8a0d4e838473d7dfa51eeee99f8e52c1af6881674e"
+  },
+  {
+    "path": "docs/screenshots/meal-plan.png",
+    "sha256": "7fcd487990206135f218ed34d0860c70dd880e94e0f5d7a83af7f39569179c47"
+  },
+  {
+    "path": "docs/screenshots/treatment.png",
+    "sha256": "de4b8305bc0e5e5010494c5d83f71fd0cda9fe47d90ffb0212985a047ac90e73"
+  },
+  {
     "path": "HOSTED_DEMO_SETUP.md",
     "sha256": "880e800beaf0a2928378e5f76e15979fe7525ec85a25226998b492da8195814d"
+  },
+  {
+    "path": "mobile/.gitignore",
+    "sha256": "4a8d984279954e0461e0ffef9b9e7455340a0a762f227c01065a53482a83a4f1"
+  },
+  {
+    "path": "mobile/.metadata",
+    "sha256": "c9db6709269178ee396534037318e6bed081e62b234b25bef21770aca7e21505"
+  },
+  {
+    "path": "mobile/analysis_options.yaml",
+    "sha256": "e0ea485cfdbc3e12b93efb8679a5ea73ebfe20ea4ca0c473dc594fc2fb274ed5"
+  },
+  {
+    "path": "mobile/android/.gitignore",
+    "sha256": "b027c9de1011765c015e5819bf857c0d75bfcd0886fb01721c091159012e50f1"
+  },
+  {
+    "path": "mobile/android/app/build.gradle.kts",
+    "sha256": "73dc455cfd2c86d4b310168304919a1419bcae846707d625fe52befffc799113"
+  },
+  {
+    "path": "mobile/android/app/src/debug/AndroidManifest.xml",
+    "sha256": "46b2d67e36f39d55018e195845ec1bd8a1d56a51fd20013cc847ab5397c3cba2"
+  },
+  {
+    "path": "mobile/android/app/src/debug/res/xml/demo_network_security.xml",
+    "sha256": "ef71b33616edbaf6bbc6fc19c72585df3cfd2fc9a5b97b9ebd4c49f68efbda80"
+  },
+  {
+    "path": "mobile/android/app/src/main/AndroidManifest.xml",
+    "sha256": "a73edc11f155d56f49aebdb927ba64db72d9f0384d7e02c4bbe19d1cc88b8d6f"
+  },
+  {
+    "path": "mobile/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java",
+    "sha256": "b981bfb3e42ce7ce0526c6a9c93c1a108546a2c01b94f8c667d374b77b01430b"
+  },
+  {
+    "path": "mobile/android/app/src/main/kotlin/com/example/fyp/MainActivity.kt",
+    "sha256": "1162bb93dfb9ae4623f3e8d21a5d22c6252283876c04778700a1cd56a9b1e16f"
+  },
+  {
+    "path": "mobile/android/app/src/main/res/drawable/launch_background.xml",
+    "sha256": "94433756fe10005ddd6fc55cc5c0b1e9f3c10b66a08ceac795ece6713d34e28a"
+  },
+  {
+    "path": "mobile/android/app/src/main/res/drawable-v21/launch_background.xml",
+    "sha256": "7ca6d5cec2169c5a98661a119db23a6f3399c8fef2256ff04f3a642831282478"
+  },
+  {
+    "path": "mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "sha256": "6a7c8f0d703e3682108f9662f813302236240d3f8f638bb391e32bfb96055fef"
+  },
+  {
+    "path": "mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "sha256": "c7c0c0189145e4e32a401c61c9bdc615754b0264e7afae24e834bb81049eaf81"
+  },
+  {
+    "path": "mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "sha256": "e14aa40904929bf313fded22cf7e7ffcbf1d1aac4263b5ef1be8bfce650397aa"
+  },
+  {
+    "path": "mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "sha256": "4d470bf22d5c17d84edc5f82516d1ba8a1c09559cd761cefb792f86d9f52b540"
+  },
+  {
+    "path": "mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "sha256": "3c34e1f298d0c9ea3455d46db6b7759c8211a49e9ec6e44b635fc5c87dfb4180"
+  },
+  {
+    "path": "mobile/android/app/src/main/res/values/styles.xml",
+    "sha256": "937d7c82f539c72eb94fd3a3773f29b3d3fef1997213c92cb632298cedf4bda9"
+  },
+  {
+    "path": "mobile/android/app/src/main/res/values-night/styles.xml",
+    "sha256": "8c5bad5152f217e837519f9c15211d19f39bd45f5f67faf6dd81cb4b299e518f"
+  },
+  {
+    "path": "mobile/android/app/src/profile/AndroidManifest.xml",
+    "sha256": "30b0832ed8b92dfbd6ae2abfa939ccf26333d37600056b1572bd4a397a18a74b"
+  },
+  {
+    "path": "mobile/android/build.gradle.kts",
+    "sha256": "6a26dba2cb8dfba1e74f540b0d17a89d96c1301d3c3bfda14348bed257fddcba"
+  },
+  {
+    "path": "mobile/android/gradle/wrapper/gradle-wrapper.jar",
+    "sha256": "16caeaf66d57a0d1d2087fef6a97efa62de8da69afa5b908f40db35afc4342da"
+  },
+  {
+    "path": "mobile/android/gradle/wrapper/gradle-wrapper.properties",
+    "sha256": "4f0df93978f8c53f8995c6afcdecd9d290b5df35fa08f236163e8e5df8557c8e"
+  },
+  {
+    "path": "mobile/android/gradle.properties",
+    "sha256": "20c411ebbe5162992d16d170656ee19a9ffe0571e6c4d4c5a5314bb06da0a672"
+  },
+  {
+    "path": "mobile/android/gradlew",
+    "sha256": "ec56c02543666d92d9ac5ae7fcc48f88ce4de0deb8b7f9b39928ca46f68c1b2b"
+  },
+  {
+    "path": "mobile/android/gradlew.bat",
+    "sha256": "c13c6e91b9a517783976de213d46398c661ea9e17651376d7301e839eaedcc62"
+  },
+  {
+    "path": "mobile/android/settings.gradle.kts",
+    "sha256": "f822f8653a25b632ea3334473d8e9964e7d7da73e3ec33448f17e8600834b063"
+  },
+  {
+    "path": "mobile/assets/fonts/OFL.txt",
+    "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573"
+  },
+  {
+    "path": "mobile/assets/fonts/Poppins-Bold.ttf",
+    "sha256": "983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c"
+  },
+  {
+    "path": "mobile/assets/fonts/Poppins-Medium.ttf",
+    "sha256": "90373e7d838d32468438fc3e152dca0bdb12edcab99ea639f158790b1ba1fd05"
+  },
+  {
+    "path": "mobile/assets/fonts/Poppins-Regular.ttf",
+    "sha256": "7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba"
+  },
+  {
+    "path": "mobile/assets/fonts/Poppins-SemiBold.ttf",
+    "sha256": "d3bf1bdaf0550e83da9ac0b1d1d9fe6db086835a83aa28578e609a394b9a0286"
+  },
+  {
+    "path": "mobile/assets/images/Logo.png",
+    "sha256": "eca00ce2a7f1e23d1b11c6839dcbe40457ab1975879dc200c91e5ccb270b62ec"
+  },
+  {
+    "path": "mobile/lib/main.dart",
+    "sha256": "3f67f441996406be1d13964f622345f8878a778a84cae076df13d318d4d02e8e"
+  },
+  {
+    "path": "mobile/lib/model/auth_model.dart",
+    "sha256": "1ea3535e43963fd106cabe8e0fcc6fa6cd50c73a0582dcd42a25d2ea33801e77"
+  },
+  {
+    "path": "mobile/lib/model/notification_model.dart",
+    "sha256": "b195fad84313bb887cfb9aaa3c78c40e4c5bd09a8fdfd9d13475e688e20e764c"
+  },
+  {
+    "path": "mobile/lib/model/nutrition_plan_model.dart",
+    "sha256": "4b9e3b0bc927c1f54b6d510c2a064728188ff87cf0a5a3f2ef004e4a8b3341bf"
+  },
+  {
+    "path": "mobile/lib/model/profile_setup_model.dart",
+    "sha256": "ef273c2acf24e307b30cd24f90f2cf793d2bc5ea82622a9eb4f1f034ffc34b6e"
+  },
+  {
+    "path": "mobile/lib/model/treatment_model.dart",
+    "sha256": "0baaf63026d8a8ddeef0219526ee5eecd251b4ec8c1ee7c6249f8fbd26fd7377"
+  },
+  {
+    "path": "mobile/lib/screens/Authenication_Screen/forgot_password_screen.dart",
+    "sha256": "464d32f2cf6072ab9a10d7171d43db95e42383d667dfac35ae89468e17e9dbb9"
+  },
+  {
+    "path": "mobile/lib/screens/Authenication_Screen/login_screen.dart",
+    "sha256": "5be03ed7574573f2a348544581aa85bcfb2beb7b453a0a56f91364cce75a903b"
+  },
+  {
+    "path": "mobile/lib/screens/Authenication_Screen/reset_password_screen.dart",
+    "sha256": "72f2fd7326e36a702338ffaccda2d09d398f9714770f2e661229518089f4fc7b"
+  },
+  {
+    "path": "mobile/lib/screens/Authenication_Screen/signup_screen.dart",
+    "sha256": "df441b68beeae3822506418dda0f8c0801e7c8ce745b26cf5f0a4a7460400f50"
+  },
+  {
+    "path": "mobile/lib/screens/cheat_tricks_screen/cheat_tricks_screen.dart",
+    "sha256": "a79a9448f12e2b876d92cad690bff48e9095d2c93f6eb7baf1ed49c77ca57681"
+  },
+  {
+    "path": "mobile/lib/screens/daily_tracker_screen/daily_tracker_screen.dart",
+    "sha256": "bd88480b144c585e60d9572dfc674c05276eb7304462d528f549a70b14971a81"
+  },
+  {
+    "path": "mobile/lib/screens/dashboard_screen.dart",
+    "sha256": "a8e6d1a119500a0b53e45a7283f74c1188bcb84610186d2333dbe74b102da9b5"
+  },
+  {
+    "path": "mobile/lib/screens/diet_plan_screen/diet_plan_screen.dart",
+    "sha256": "f06a7438c01bdf343fa5eeed214b2f63f2ded6c5006875b2aa92345eb79ea447"
+  },
+  {
+    "path": "mobile/lib/screens/edit_profile.dart",
+    "sha256": "6338ba5765174de43997cb8bcdb6a2a9475312af13bb251cdcc5c656f13a6808"
+  },
+  {
+    "path": "mobile/lib/screens/glucometer_screen/glucometer_scanner_screen.dart",
+    "sha256": "5d76e94a765e37c9af1429791dd10971ca56c8c60be54efa7d062efb47478f72"
+  },
+  {
+    "path": "mobile/lib/screens/Initial_profile_setup_screen/profile_setup_screen.dart",
+    "sha256": "e693136602597cfe2a88dc695e668f35b93946d8b6b7d5550118a662523649a5"
+  },
+  {
+    "path": "mobile/lib/screens/main_navigation_screen.dart",
+    "sha256": "298e4a07590759b695276b53a0be44fbd33487d63df2ec3b971535529e75987c"
+  },
+  {
+    "path": "mobile/lib/screens/meal_database_screen/meal_database_screen.dart",
+    "sha256": "686c47416fb9c509ec50f92be6c2542079f7c971c23615242a38e0db4eedd5af"
+  },
+  {
+    "path": "mobile/lib/screens/meals_screen.dart",
+    "sha256": "7e0ca25b265e88ec392a916436493ff6f2030b2c39ff1c93faeb10aff24402e3"
+  },
+  {
+    "path": "mobile/lib/screens/privacy_policy_screen.dart",
+    "sha256": "4c57f1714fae6cfcfb4e82bb9afcd2c2d67e5ebba977f223b98a6b9ac0e16e4b"
+  },
+  {
+    "path": "mobile/lib/screens/profile_screen.dart",
+    "sha256": "a8f18a7d79634f52c120ab7acc574be9dddfa4d735809d9b4d65d0f343442030"
+  },
+  {
+    "path": "mobile/lib/screens/profile_setup/profile_confirm_screen.dart",
+    "sha256": "305811fb3aa19cdaf1199ec645e2a29d7e32af75bf3a40b3e9ccbb3523832adf"
+  },
+  {
+    "path": "mobile/lib/screens/profile_setup/profile_details_screen.dart",
+    "sha256": "3a9b2f57c943ffbdbeb7d7f8a5b65752c302ca2af0f2a533922c0eb2f4f48c0f"
+  },
+  {
+    "path": "mobile/lib/screens/profile_setup/profile_goals_screen.dart",
+    "sha256": "e81ec0d99d72b3e64c27c8a2ab8254c7404c0c8a33337006953020fbc27c14de"
+  },
+  {
+    "path": "mobile/lib/screens/profile_setup/profile_picture_screen.dart",
+    "sha256": "5870c50245f473645e9fb5ce7aaed2ef91b2ab2e339fffe3d8b4fd1d5c6caf94"
+  },
+  {
+    "path": "mobile/lib/screens/progress_screen.dart",
+    "sha256": "a96247dce80810cd0cadd1b70e79bd669d51217e90884b8a12c5360596571e6e"
+  },
+  {
+    "path": "mobile/lib/screens/terms_conditions.dart",
+    "sha256": "01475a73c53e5949faffa6b391cc883385ee8fb9830a2c1136ba5f79610889f7"
+  },
+  {
+    "path": "mobile/lib/screens/weekly_report_screen.dart",
+    "sha256": "44e082f31068f928c36a8981085d5a284a6950a8426c1efb5848d9e75be5754e"
+  },
+  {
+    "path": "mobile/lib/screens/welcome_screen/get_started_screen.dart",
+    "sha256": "8197f8f4287090e59f3b6aa45500304256ef374c0fcb75445fbed074324fa775"
+  },
+  {
+    "path": "mobile/lib/screens/welcome_screen/splash_screen.dart",
+    "sha256": "b46ec69806dc7f850506ddfe8f2933e749f0ffad2b70b0eafbb0bd6777655574"
+  },
+  {
+    "path": "mobile/lib/screens/widgets/custom_button.dart",
+    "sha256": "e1ce4e24d98482792d24c6687c8d57e0144b3a9c8bb38fc5614be1aeb1ff5942"
+  },
+  {
+    "path": "mobile/lib/screens/widgets/custom_card.dart",
+    "sha256": "5eea48581f7f53ae1bd00fb825e5be36377c28f655baa590a5a5973d2bb02e27"
+  },
+  {
+    "path": "mobile/lib/screens/widgets/custom_input_field.dart",
+    "sha256": "a3c288abcd34653cbaf2a38afad60daf05ea5c0673d59f880a12e4c79b8e6059"
+  },
+  {
+    "path": "mobile/lib/services/auth_service.dart",
+    "sha256": "911bd707a8b6103470417288525f97cbf1077c74f42df3dbd23ab4e3d838b2cd"
+  },
+  {
+    "path": "mobile/lib/services/daily_tracker_service.dart",
+    "sha256": "421887daf9df1f927a2dbb2d9c6709764700a17e8bdc20e5310c6f55664d76fe"
+  },
+  {
+    "path": "mobile/lib/services/mealplan_service.dart",
+    "sha256": "0e559b086160d06eb603a8bd7a74598b8e2cbd38fd4783aa88b4da50f59bf261"
+  },
+  {
+    "path": "mobile/lib/services/notification_service.dart",
+    "sha256": "3da9a318a9c80f1df1861e018203eb2d2e54860451ae6c7a0baf8f3046743875"
+  },
+  {
+    "path": "mobile/lib/services/profile_services.dart",
+    "sha256": "465cea5bb9eabbc1edc4cd2f1608fb3a9e149e89d182fd543a383efad3239f71"
+  },
+  {
+    "path": "mobile/lib/services/session_store.dart",
+    "sha256": "af88c135fad7cbad5c44a6b16dc051d8983154d504711ad577b168ffe170188b"
+  },
+  {
+    "path": "mobile/lib/services/user_service_settings.dart",
+    "sha256": "4201827d860cac14b97256633a1b9ee2df1ee1d5a480cfaf38876309a1daa866"
+  },
+  {
+    "path": "mobile/lib/theme/colors.dart",
+    "sha256": "57813ba91a5b913d76c381f8ff0c5efda2775bd8e3a2c9258baf8b7bf1107ac4"
+  },
+  {
+    "path": "mobile/lib/theme/text_styles.dart",
+    "sha256": "6bb96794e61e6c7cb379f2294fcaa36575cd7e84e34cbf13df5411ba20e187b5"
+  },
+  {
+    "path": "mobile/lib/utils/api_client.dart",
+    "sha256": "a4b752788f5a4a4df8ce0d1ab4bcec478ba195c4197bbce4d0e62b4286041a38"
+  },
+  {
+    "path": "mobile/lib/utils/app_colors.dart",
+    "sha256": "b655ed975d92d44f5d1012026b831ec900860c1061f9530719ce9a47d564f797"
+  },
+  {
+    "path": "mobile/lib/utils/app_constants.dart",
+    "sha256": "89ff98c8de7094a4df41dcd833ee3cca03d2e99bd553b4c918e38222c119360c"
+  },
+  {
+    "path": "mobile/lib/utils/app_text_styles.dart",
+    "sha256": "688589ebda17d7311648c8ca98c3a8b79cd30efd0748b2be774a039a6b652a1d"
+  },
+  {
+    "path": "mobile/lib/utils/app_urls.dart",
+    "sha256": "41e0166429904f5fdfeee0d3228c7db251aa9314944881d2ef100f360769df67"
+  },
+  {
+    "path": "mobile/lib/utils/colors.dart",
+    "sha256": "b655ed975d92d44f5d1012026b831ec900860c1061f9530719ce9a47d564f797"
+  },
+  {
+    "path": "mobile/lib/utils/constants.dart",
+    "sha256": "8c977f6c5dd91745a55f15dcf51b83ec2b897ab632df87ad9353c50035e6f5bd"
+  },
+  {
+    "path": "mobile/lib/utils/image_utils.dart",
+    "sha256": "e7a1fc2ebb91842f5113935044b25e7b9c31403669ab313722d3917add3b441f"
+  },
+  {
+    "path": "mobile/lib/widgets/bell_icon.dart",
+    "sha256": "8c5c759e527cc809f976bd45f251ea5326d11e4559cbdcc047e3ca7bb0baf3a8"
+  },
+  {
+    "path": "mobile/lib/widgets/custom_button.dart",
+    "sha256": "4d9837b4772f0afa3dff9132aaa551ffa079d8d26ead4ff010a1db253e054fa5"
+  },
+  {
+    "path": "mobile/lib/widgets/custom_card.dart",
+    "sha256": "1fc3c93f3017ac65de931e1899b56b0f657035deeea1658ec8765a0700dc1659"
+  },
+  {
+    "path": "mobile/lib/widgets/custom_input.dart",
+    "sha256": "efb672d6f3d44b978c917903ffa6813d4c206dbcf2aca38527b865184c914e0d"
+  },
+  {
+    "path": "mobile/lib/widgets/custom_input_field.dart",
+    "sha256": "370ea3127dc68780e1e6955a27cad16b7806e07e3121140db1917205fcadfbf0"
+  },
+  {
+    "path": "mobile/lib/widgets/glucose_quick_log_dialog.dart",
+    "sha256": "118329a3d80edf5633465e6ec16e700261dabaacb70912ac47fdb341ffab752f"
+  },
+  {
+    "path": "mobile/lib/widgets/notification_panel.dart",
+    "sha256": "db0a5cb600b3f8dccddab3de99937e4affd396173fbf1491d6a6d2c4af8a192b"
+  },
+  {
+    "path": "mobile/lib/widgets/planning_context_card.dart",
+    "sha256": "3d8452666c097d6ad9f5764cf7b7156d8ec6e940c0bafe3aa9c893c53876f9ee"
+  },
+  {
+    "path": "mobile/lib/widgets/treatment_editor.dart",
+    "sha256": "9c3bf7742a40e08a63477d91f3707812221dc49f85a324df0bd3cf7f530b36dd"
+  },
+  {
+    "path": "mobile/pubspec.lock",
+    "sha256": "88ea5afe98058c56f8c23729ef4e571dc9ecf409438a002eeb82d194850ad194"
+  },
+  {
+    "path": "mobile/pubspec.yaml",
+    "sha256": "2f2b6779f3d77c6c4aa9e2998d4589925006da697c9ee0a779561f8fa6ccf257"
+  },
+  {
+    "path": "mobile/test/foundation_test.dart",
+    "sha256": "58b3100627ff59a2fdedbc0cd7d55288c3fcf122f740761a0cd728c6a93d6051"
+  },
+  {
+    "path": "mobile/test/portfolio/dashboard.png",
+    "sha256": "1ca1e6694f9f82a88911864c316610a1a0ec2f84a6004727b6a910ce815f2f28"
+  },
+  {
+    "path": "mobile/test/portfolio/login.png",
+    "sha256": "2ead4c5240b603f3be42ef8a0d4e838473d7dfa51eeee99f8e52c1af6881674e"
+  },
+  {
+    "path": "mobile/test/portfolio/meal-plan.png",
+    "sha256": "7fcd487990206135f218ed34d0860c70dd880e94e0f5d7a83af7f39569179c47"
+  },
+  {
+    "path": "mobile/test/portfolio/treatment.png",
+    "sha256": "de4b8305bc0e5e5010494c5d83f71fd0cda9fe47d90ffb0212985a047ac90e73"
+  },
+  {
+    "path": "mobile/test/portfolio_screenshots_test.dart",
+    "sha256": "4af39d593df11a1c09e0e79fdf1bdc02f649ae96afe2a0519f8f669e5d42c1d3"
+  },
+  {
+    "path": "mobile/test/treatment_test.dart",
+    "sha256": "230b734cd1fa1e723206336d7940d23919689f6a5ae11bad47d6592ea3697d81"
+  },
+  {
+    "path": "mobile/test/widget_test.dart",
+    "sha256": "76e41f7442f8f858ad402b01ef217c96461bba7c31c632c88f468a500af7e3a4"
+  },
+  {
+    "path": "mobile/web/favicon.png",
+    "sha256": "7ab2525f4b86b65d3e4c70358a17e5a1aaf6f437f99cbcc046dad73d59bb9015"
+  },
+  {
+    "path": "mobile/web/icons/Icon-192.png",
+    "sha256": "3dce99077602f70421c1c6b2a240bc9b83d64d86681d45f2154143310c980be3"
+  },
+  {
+    "path": "mobile/web/icons/Icon-512.png",
+    "sha256": "baccb205ae45f0b421be1657259b4943ac40c95094ab877f3bcbe12cd544dcbe"
+  },
+  {
+    "path": "mobile/web/icons/Icon-maskable-192.png",
+    "sha256": "d2c842e22a9f4ec9d996b23373a905c88d9a203b220c5c151885ad621f974b5c"
+  },
+  {
+    "path": "mobile/web/icons/Icon-maskable-512.png",
+    "sha256": "6aee06cdcab6b2aef74b1734c4778f4421d2da100b0ff9e52b21b55240202929"
+  },
+  {
+    "path": "mobile/web/index.html",
+    "sha256": "743805c919b501357fb1b14741492fee4d91d45700b598e650e392aca7ec73b5"
+  },
+  {
+    "path": "mobile/web/manifest.json",
+    "sha256": "0cd23da354e4f257a099e6f6aec52350c4e46f4e406c0a8c0be076b70e562d3c"
+  },
+  {
+    "path": "README.md",
+    "sha256": "ef34b0d9bb8c5f7bd4c992ad38ead6bd8f5423bb2b0caed993d9161500eec7c3"
   },
   {
     "path": "render.yaml",
