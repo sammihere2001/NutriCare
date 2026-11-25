@@ -268,6 +268,10 @@
     "sha256": "91f69b8e3801a1d9f4818e8adb6885d1a02bf51d51c1324e37f0d5098811eadc"
   },
   {
+    "path": "docs/PORTFOLIO_REVIEW.md",
+    "sha256": "8145d308f0ed39c16669196f311de4a608502679351be0e04201d5ef4a02efb9"
+  },
+  {
     "path": "docs/screenshots/dashboard.png",
     "sha256": "1ca1e6694f9f82a88911864c316610a1a0ec2f84a6004727b6a910ce815f2f28"
   },
